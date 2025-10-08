@@ -1,0 +1,31 @@
+Faji kezettseg
+
+Ezzel a kepzettseggel parancsolhatsz a negy elemnek.
+Koltseg: Szint/1,225+5 mana
+
+Fold:
+  Sebzes: (szint)d10 + (ero)*(szint)/10
+  Sebzes tipus: magia
+  Bonusz: -
+
+Levego:
+  Sebzes: (szint)d8 + (ero)*(szint)/15
+  Sebzes tipus: magia
+  Bonusz: vakit
+
+Viz:
+  Sebzes: (szint)d8 + (ero)*(szint)/15
+  Sebzes tipus: jeg
+  Bonusz: mergez
+
+Tuz:
+  Sebzes: (szint)d8 + (ero)*(szint)/15
+  Sebzes tipus: tuz
+  Bonusz: meggyujt
+
+Oselem:
+  Sebzes: (szint)d12 + (ero)*(szint)/15
+  Sebzes tipus: tuz
+  Bonusz: -
+
+Hasznalat: ramutat
