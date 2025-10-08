@@ -1,0 +1,57 @@
+A boltban hasznalatos parancsok:
+
+<koltseg>
+<koltseg targy_neve> megmondja, hogy az eladó mennyiért adja el neked az
+        elsõ 'targy_neve' nevezetû tárgyat, ami a boltban van.
+<koltseg targy_neve #> ha egynél több 'targy_neve' nevezetû tárgy van a 
+          boltban, így tudod meg a #-diknak az árát. Pl:
+          <koltseg faklya 2>, így a második fáklya árát
+          tudod meg.
+
+<ertek>
+<ertek targy_neve> megmondja, hogy az eladó mennyiért veszi meg tõled az
+      elsõ 'targy_neve' nevezetû tárgyat, ami nalád van.
+<ertek targy_neve #> ha egynél több 'targy_neve' nevezetû tárgy van 
+          nálad, így tudod meg a #-diknak az értékét. Pl:
+          <ertek kard 4>, így a negyedik kard értékét
+          tudod meg.
+
+<vesz>
+<vesz targy_neve> ezzel a paranccsal veheted meg a boltban levõ elsõ
+     'targy_neve' nevezetû tárgyat, ha van elég pénzed.
+<vesz targy_neve #> ezzel a paranccsal veheted meg a boltban levõ #-dik
+       'targy_neve' nevezetû tárgyat. Pl. <vesz pajzs 2>
+       paranccsal a második pajzsot veheted meg.
+
+<elad>
+<elad targy_neve> ezzel a paranccsal adhatod el a nálad levõ elsõ
+     'targy_neve' nevezetû tárgyat.
+<elad targy_neve #> ezzel a paranccsal adhatod el a nálad levõ #-dik
+       'targy_neve' nevezetû tárgyat. Pl. <elad sisak 3>
+       paranccsal a harmadik sisakot adhatod el.
+<elad mindent> elad minden tárgyat, ami nálad van, kivéve amit viselsz,
+        fogsz, vagy tartasz.
+
+<mutat>
+<mutat targy_neve> az eladó megmutatja neked a boltban levõ elsõ 
+      'targy_neve' nevezetû tárgyat.
+<mutat targy_neve #> az eladó megmutatja neked a boltban levõ #-dik 
+        'targy_neve' nevezetû tárgyat.
+
+<lista>
+<lista> kilistáz minden tárgyat, ami a boltban van, kiírja mellé, hogy
+       legalább milyen szintûnek kell lenned, hogy a tárgyat használhasd
+       es kiírja az eladási árát.
+<lista fegyverek> kilistáz minden fegyvert
+<lista pancelok> kilistáz minden páncélt
+<lista egyeb> kilistáz mindent, ami nem fegyver és nem páncél
+<lista targy_tipusa> kilistáz minden 'targy_tipusa' típusú fegyvert vagy
+                    páncélt. Pl. <lista vago> kilistázza az összes
+                    vágófegyvert. A <lista pajzs> kilistázza az összes
+        pajzs típusú páncélt.
+<lista targy_neve> kilistázza az összes 'targy_neve' nevezetû tárgyat.
+<lista X>Y > kilistáz minden X és Y közötti szintû tárgyat. 
+<lista tipus X>Y > kilistáz minden "tipus" típusú tárgyat, melynek
+minimumszintje X és Y közötti.
+<lista tipus X> kilistaz minden X szintû, "tipus" típusú tárgyat. (X,Y
+mindenhol egész számok, Y legyen nagyobb mint X)

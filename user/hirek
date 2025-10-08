@@ -1,0 +1,12 @@
+Ezzel a paranccsal nezheted meg a legujabb hireket a jatekban.
+A kezelese egyszeru, ha megsem menne, akkor a hirek parancs utan
+egy '?' beirasaval juthatsz egy kis segitseghez.
+
+Ha esetleg tul sok hirt listaz ki a parancs, es emiatt nem birod
+elolvasni oket, allitsd a MORE valtozodat off-ra: %^YELLOW%^allit MORE off%^RESET%^
+Vagy ha ez megsem oldana meg a problemad, allitsd a kepernyodet
+pl. 100 sorosra: %^YELLOW%^allit LINES 100%^RESET%^
+
+Ezekutan remelhetoleg mar el fogod tudni olvasni a hireket.
+
+Lasd meg: allit

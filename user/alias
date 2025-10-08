@@ -1,0 +1,24 @@
+Ezzel a paranccsal állíthatod be aliasaidat.
+
+Például:
+alias e eszak
+alias kmh kivesz mindent hulla
+alias mm varazsol 'magikus lovedek' $*
+
+alias . pont
+alias $. pont$* 
+igy mux kovetore a pont -> . k 
+                        -> . koveto
+alias . pont $* 
+ezzel is mukodik a ". koveto" ...
+
+Ha paraméter nélkül adod meg, kiírja az összes aliasodat.
+Ha csak egy paramétert adsz meg, akkor kiírja, milyen aliasod van arra
+beállítva. Pl. alias e -> Alias e jelenleg: (eszak).
+
+Spec. paraméterek:
+alias -torles    összes alias törlése
+alias -default    default aliasok beállítása
+alias -hibrid    félig magyar, félig angol aliasrendszer
+
+Lásd még: unalias, becenev

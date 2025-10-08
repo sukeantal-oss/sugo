@@ -1,0 +1,27 @@
+Az ékezetes rendszer éppen beindult...
+Az <allit EKEZET [ertek]> paranccsal állíthatod át az ékezetek módját.
+nincs  (Ez a default, nincsenek ékezetek.)
+latin-1  (Akinél az o" betût nem bírja a latin-2.)
+latin-2
+utf-8
+ascii
+
+És itt letesztelheted a betûket:
+a' - á,Á    e' - é,É    i' - í,Í
+o' - ó,Ó    o: - ö,Ö    o" - õ,Õ
+u' - ú,Ú    u: - ü,Ü    u" - û,Û
+
+Ha ékezetes betûket akarsz használni parancsokban, pl. duma csatornan,
+akkor azt távirati stílusban írd be fordított aposztrófok -> ` közé.
+a' -> `aa` v. `a`  A' -> `Aa` v. `A`  e' -> `ee` v. `e`
+E' -> `Ee` v. `E`  i' -> `ii` v. `i`  I' -> `Ii` v. `I`
+o' -> `oo` v. `o`  O' -> `Oo` v. `O`  o: -> `oe`
+O: -> `Oe`    o" -> `ooe`    O" -> `Ooe`
+u' -> `uu` v. `u`  U' -> `Uu` v. `U`  u: -> `ue`
+u: -> `Ue`    u" -> `uue`    U" -> `Uue`
+Pl.: duma Hell`oo` `Oe`d`oe`n
+
+Az ékezetes mód használata mellett tudni kell, hogy nem mindenhol találsz
+ékezetes leírásokat.
+
+Lásd még: allit

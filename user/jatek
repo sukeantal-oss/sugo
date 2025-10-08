@@ -1,0 +1,5 @@
+Az anagramma játékot bárki bárhonnan játszhatja a játék csatorna segítségével.
+A lényege, hogy a <jatek indit> parancsot kiadva elindul a verseny. A Játékmester egymás után anagrammákat ad fel, tehát szavakat melyeknek betûi össze vannak keverve.
+A játék csatornára lehet beírni a tippeket, aki jó megfejtést ad, megkapja a szó hosszával egyezõ értékû pontszámot. Amennyiben 2 perc elteltével senki nem fejtette meg, a Játékmester segítséget ad, de innentõl már csak feleannyit ér a helyes megfejtés.
+Pontjainkat a <jatek pontok> paranccsal tudjuk leellenõrizni. A top 50 listát a <jatek stat> paranccsal nézhetjük meg.
+Ha az adott feladat kifutott a képernyõbõl, megtekinthetjük a <jatek feladat> parancs segítségével.

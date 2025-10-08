@@ -1,0 +1,98 @@
+A klántárgy rendszer Brutálián eléggé összetett, de ha figyelmesen elolvasod
+ezt a dokumentumot, akkor megismered a lényegét. A legfontosabb, hogy a
+klántárgyakat nem az alkotók kódolják meg a klánok számára, hanem a
+klánterülethez hasonlóan aklánok hozzák létre õket, az alkotók csak a
+klántárgyak létrehozásához szükséges kódokért felelõsek. Ahhoz, hogy egy klán
+egy tagjának lehessen klántárgya, elõször a klán megfelelõ jogosultsággal
+rendelkezõ tagjának a klántárgyat létre kell hoznia, és ez általában nem olcsó,
+de szerencsére a klán közösen állja a költséget. A klán tárgyak létrehozása a
+"klan targyak" paranccsal történik, és ugyanezzel a paranccsal nézheted meg azt
+is, hogy a klánodban milyen tárgyak vannak már létrehozva. Miután a klán
+létrehozott egy klántárgyat, abból a klán tagjai tetszõleges számú darabot
+beszerezhetnek, pl. a klánboltban megveheti. Ennek a költségét maguk a
+játékosok állják, nem a klán, de szerencsére ez a költség a tárgy
+létrehozásához képest elenyészõ.
+
+A klántárgyak alapvetõen két nagy csoportra oszthatóak:
+
+1) Klánkitbõl készített klántárgyak
+
+Ezeket a tárgyakat egy elõre definiált készletbõl hozhatják létre a klánok. A
+készlet minden klán számára teljesen azonos, azonban egy klántárgy
+létrehozásánál a tárgy kinézetét a klánok szabadon megváltoztathatják, azonban
+a harci, ill. mágikus értékeit nem. Ezek a tárgyak csak a klán tagjainál
+lehetnek, ha egy klántag kilép a klánból, az ilyen tárgyak eltûnnek tõle. Az
+ebbe a csoportba tartozó tárgyakat a klán tagjai - a tárgy létrehozása után - 
+a klánterületen lévõ boltokban szabadon vásárolhatják.
+
+Ez a csoport négy további alcsoportra osztható:
+
+1.a) Klánok kezdõfelszerelése
+
+A kezdõk halljában beszerezhetõ tárgyakkal harcértékekben teljesen megegyezõ
+tárgyak minden klán számára elég olcsón rendelkezésre állnak, így a klán kezdõ,
+vagy újjászületett tagjai az elsõ pár szint alatt egyedi kinézetû tárgyakban
+feszíthetnek.
+
+1.b) Étkek és italok
+
+Minden klán létrehozhatja a saját ízlésének megfelelõ étel- és italválasztékot,
+aminek nemcsak a kinézete, de az erõssége, és az elfogyasztásakor kiírt
+szövegek is állitható. Az ételek és italok a létrehozásuk után a klánterületen
+lévõ boltokban vásárolhatók, igényesebb klánok létrehozhatnak akár egy erre
+specializálódott klánfogadót.
+
+1.c) Varázsitalok, varázstekercsek és varázspálcák
+
+Brutália nagyobb városainak boltjaiban kapható varázstárgyak a klánok számára
+is rendelkezésre állnak. A klánok szabadon megválaszthatják, hogy ezekbõl a
+varázslatokból melyiket kívánják tekercsben, s melyiket varázsitalban
+létrehozni, és egyedi kinézetet adhatnak ezeknek a tekercseknek, italoknak. A
+másra is varázsolható varázslatokat akár 5, 8, ill. 12 töltetes varázspálcákba
+is rakhatják, azonban a pálcák - a töltetek számával egyenes arányban -
+drágábbak. A Brutáliaszerte kapható varázstárgyakon kívül azonban a klánok
+létrehozhatnak még egy varázstárgyat, amelyet klánon kívüliek nem szerezhetnek
+be, a klánvisszatérés tekercsét, ill. italát (lásd sugo klanvisszateres).
+
+1.d) Speciális klántárgyak
+
+Az elõzõ klántárgyak fõleg arra szolgálnak, hogy a klántagoknak ne kelljen
+ellátogarni a megfelelõ helyekre, pl. a fõvárosba, hogy az elõttük álló
+kalandokra felszerelkezzenek, hanem ezt a klán fõhadiszállásán is megtehessék.
+A speciális klántárgyak azonban néhány újabb lehetõséget is tartogatnak, amely
+klánon kívûliek számára nem elérhetõek, viszont ezek az elõzõekhez képest jóval
+drágábbak. A speciális klántárgyak semmilyen harcmódosító értékkel nem
+rendelkezhetnek, nem lehetnek fegyverek, páncélok, és ami nagyon fontos: minden
+klán ugyanazokat a speciális klántárgyakat hozhatja létre, persze a kinézetük
+klánonként szabadon változtatható.
+
+2) Játékban szerezhetõ tárgyak
+
+Az elõzõleg felsoroltaktól teljesen eltér a játékban szerezhetõ tárgyak
+klántárgyá tétele. Bármelyik, a játékban beszerezhetõ tárgyból klántárgyat
+hozhatnak létre a klánok, amiknek a kinézetét szabadon megváltoztathatják,
+azonban harci módosítóit nem, azok meg fognak egyezni az eredeti tárgy harci
+módosítóival. Az ebbe a csoportba tarozó klántárgyak létrehozása úgy történik,
+hogy a klán egyik tagja elõször a játékban megszerzi a kívánt tárgyat, majd a
+klán megfelelõ jogosultsággal rendelkezõ tagjának átadja, aki a "klan targyak"
+paranccsal létrehozza az eredeti tárgyból a klántárgyat. A létrehozás költsége
+azonban az elõzõekhez képest igen drága - a legelsõ ilyen tárgynál az
+alapköltség 1 millió arany, és minden további ilyen klántárgy alapköltsége 1
+millió arannyal drágább az elõzõ alapköltségénél, ráadásul az alapköltséget
+megnöveli a létrehozáskor egy, a tárgy minimális szintjétõl függõ plussz
+költség (a minimális szint * 10 000 arany). Egy ilyen klántárgy létrehozása
+után természetesen a klán tagjai NEM vásárolhatják meg ezt a tárgyat a
+klánboltokban, hiszen lehet, hogy ritka tárgyról van szó. A klán tagjai úgy
+szerezhetnek ilyen klántárgyat, ha elõbb a játékban beszerzik az eredeti
+tárgyat, majd a klánterületen a kovácsnál átalakíttatják. Az átalakítás is
+pénzbe kerül, azonban a létrehozás költségéhez képest elhanyagolható összegbe.
+Az ilyen módon beszerzett klántárgyak is csak az adott klán tagjaihoz
+kerülhetnek, s ha egy klántag, akinél van egy ilyen tárgy, kilép a klánból,
+akkor az ilyen tárgyak nem tûnnek el tõle, hanem visszaalakulnak az eredeti
+formájukra.
+
+A klánok által létrehozható klántárgyak száma korlátozott, a korlátot a "klan
+targyak" parancs klántárgy típusonként kiírja. A klántárgyakat nem lehet
+feltenni aukcióra, nem lehet õket nyilvános boltban eladni, s nem lehet õket
+nem klántagnak átadni, azonban fel lehet õket áldozni, le lehet rakni õket a
+földre, s be lehet rakni õket raktárba, ill. rekeszbe.

@@ -1,0 +1,44 @@
+%^RED%^BOLD%^Playerkill:
+%^RESET%^A playerkill kifejezés a játékosgyilkolást takarja. Ez az opció egy
+új színfoltot visz a játékba izgalmas és fordulatokban gazdag világával.
+Természetesen a playerkillhez egy komoly szabályrendszer is tartozik, illetve
+törvények is készülnek hozzá, melyek betartását nagyon szigorúan fogják venni
+a wizardok, hogy ne rontsa el más játékélményét.
+
+%^CYAN%^Ki/beléphetünk-e kedvünk szerint?%^RESET%^
+  Bármikor beléphetünk a playerkillesek közé. Ha egyszer beléptünk,
+  visszacsinálni már pénzbe kerül. Alkalmanként 1 millió arany.
+
+%^CYAN%^Hol ölhetünk?%^RESET%^
+  Bármelyik területen ölhetünk, ezalól kivétel a fõtér, a Templomok, a
+  pkszoba, a hullaház és a klánszállások, általában a Szent Hely-ek.
+
+%^CYAN%^Kit ölhetünk?%^RESET%^
+  Kizárólag csak olyan játékosokat ölhettek, akik szintén a playerkill
+  tagjai. Játékost semmilyen módon nem tudtok megtámadni, de ha ez valamilyen
+  bug folytán szánt szándékkal, vagy véletlenül elõfordul, súlyosan bûntetve
+  lesz az ide vonatkozó pontok szerint.
+
+%^CYAN%^Mikor támadhatjuk meg?%^RESET%^
+  Ha a megtámadandó ellenfelünk éppen pihen, vagy egy szörnnyel bírkózik,
+  akkor nem támadhatod meg. Szintén nem támadhatod meg, ha a szintetek
+  jelentõsen különbözõ. Nem támadhatod meg akkor sem, ha már túl sokan támadják.
+  Ezen eseményeket a támadás során a rendszer korlátozza. 
+
+%^CYAN%^Milyen bónuszokat kaphatunk?
+ %^CYAN%^BOLD%^- %^RESET%^Feeling :]
+ %^CYAN%^BOLD%^- %^RESET%^A megölt játékos pénzének 10%.
+ %^CYAN%^BOLD%^- %^RESET%^Tapasztalati pont játékos után
+
+%^CYAN%^Milyen levonásokat kaphatunk?
+ %^CYAN%^BOLD%^- %^RESET%^Halál esetén a pénzed 10% a gyõztest illeti.
+
+
+%^CYAN%^Hogyan kell a PK rendszert kezelni?%^RESET%^
+ A PK rendszer központi parancsa a %^BOLD%^WHITE%^pkr%^RESET%^.
+ %^BOLD%^WHITE%^sugo pkr%^RESET%^ nézheted meg a lehetõségeit.
+ Ha egy másik PK tag játékost keresel, akkor %^BOLD%^BLUE%^Caitimornál%^RESET%^ kapható
+ %^BOLD%^GREEN%^PK Felkutatás Varázstekercsét%^RESET%^ tudod alkalmazni. A felkutatásról
+ a keresett játékos figyelmeztetést kap.
+
+Kapcsolódó témakörök: pkr

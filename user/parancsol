@@ -1,0 +1,9 @@
+Famulusodnak adhatsz ezzel parancsokat:
+
+parancsol figyel:   Ha valami történik a famulusod környékén, akkor azt
+                    közvetíti neked. Ha nem akarod, hogy tovább figyeljen, 
+                    akkor írd be újra.
+parancsol nez:      Figyelõ famulusod körülnéz és közvetíti neked amit lát.
+parancsol teleport: Hatására elkóborolt famulusod visszatér hozzád. 
+
+Használata: parancsol [figyel]|[nez]|[teleport]

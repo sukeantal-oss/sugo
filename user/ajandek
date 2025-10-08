@@ -1,0 +1,13 @@
+Karácsony alkalmából te is készíthetsz ajándékot a Brutálián.
+Keresd meg a fenyõfát, ahol a nagy kupac ajándék közé beteheted a saját magad készítette meglepetést is.
+Ajándékot a 'keszit ajandek' paranccsal csinálhatsz.
+A csomagolás alatt négy kérdésre kell választ adnod, hogy elkészüljön az ajándékod.
+ 1: annak a neve, akinek készíted
+ 2: az ajándék rövid leírása /ami látszik a leltárban/
+ 3: amivel hivatkozni lehet ra: nez <csoki>
+   /,-el elválasztva, szóköz nélkül kell megadni! pl:csoki,mogyoros,piros/
+ 4: az ajándék hosszú leírása. Ha ránéz, ezt fogja látni
+
+Befejezés: enter, kilépés: üres sor+enter.
+Ha egy ajándék elkészült, javítási lehetõség nincs!
+Kellemes Karácsonyt kívánunk!

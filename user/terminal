@@ -1,0 +1,18 @@
+A mud különbözó escape kódokat ismer, hogy kompatibilis legyen a
+különféle terminál emulációkkal. A legtöbb terminál emuláció (vt100)
+például ansi escape kódokat használ. Ez a mud a következõ escape
+kód protokollokat ismeri:
+
+ansi
+ansi-status
+freedom
+xterm
+unknown (Ez a default, nem szines terminalokhoz.)
+
+Az <allit TERM [érték]> paranccsal allíthatod át a terminál protokollodat.
+Lásd még <sugo szinek> hogy megtudd, hogyan használhatsz színeket a
+beszélgetésben. Néhány mud kliens program szintén használ escape kódokat,
+így összeakadhat a terminálod escape kódjaival. "unknown" esetén nem
+lehet gond.
+
+Lásd még: allit, szinek

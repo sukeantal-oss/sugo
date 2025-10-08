@@ -1,0 +1,13 @@
+TERV
+
+Playerkilles által legyilkolt hullának a cuccai közül lehetõség van rabolni. Ez a rablás szabályozva lesz az alábbi sémák szerint:
+
+ - Kizárólag a játékos harc során viselt felszerelésébõl lehessen rabolni elõre megszabott ritkaság értékben
+
+ - A játékos minden cucca közül lehessen rabolni, tehát a felszerelését és a leltárát is beleértve a megszabott ritkaság értékében
+
+ - Csak a unique cuccai legyenek elvihetõek
+
+ - Választani lehet hogy a unique cuccait, vagy a normál cuccait szeretnénk vinni a megszabott ritkaság függvényében
+
+Kapcsolódó témák: playerkill, unique

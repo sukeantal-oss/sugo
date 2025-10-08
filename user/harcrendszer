@@ -1,0 +1,64 @@
+Brutália harcrendszerének leírása:  
+
+Fontosabb dolgok:
+  Páncélzat: minél magasabb, annál nehezebben találnak el téged és
+    annál kisebbet sebeznek rajtad.
+    Tárgyak és varázslatok növelik.
+  Közelharc: minél magasabb, annál könnyebben találod el ellenfeled.
+    Szinttõl és osztálytól függ.
+  Találatbónusz: minél magasabb, annál könnyebben találod el ellenfeled.
+    Tárgyak és varázslatok növelik.
+  Sebzésbónusz: hozzáadódik a sebzésedhez, ha fegyverrel vagy pusztakézzel
+    harcolsz. Tárgyak és varázslatok növelik.
+  Mágiaimmunitás: minél magasabb, annál nehezebben sebeznek rajtad 
+    varázslattal. Tárgyak és varázslatok növelik.
+  Méregimmunitás: minél magasabb, annál jobban ellenállsz a mérgeknek.
+    Tárgyak és varázslatok növelik.
+
+Sebzés:
+  Ha fegyverrel harcolsz, akkor a fegyveredtõl, ha pusztakézzel, akkor
+  a szintedtõl függ, hogy mennyit sebzel ellenfeleden. Ehhez még
+  hozzáadódhatnak különbözõ bónuszok. Ha mágiával harcolsz, akkor a
+  varázslattól függ a sebzés.
+
+Tulajdonságok szerepe:
+  Erõ: minél magasabb, annál több tárgyat bírsz el. Bónuszt kapsz, ami 
+    hozzáadódik a sebzéshez, ha pusztakézzel vagy fegyverrel harcolsz.
+  Ügyesség: minél magasabb, annál nehezebben találnak el téged és te
+    annál könnyebben találod el ellenfeledet és annál jobban nõ a stamina 
+    pontod szintlépéskor.
+  Állóképesség: minél magasabb, annál jobban nõ az életerõ pontod
+    szintlépéskor és annál jobban ellenállsz mérgeknek és sebzéseknek.
+  Intelligencia: minél magasabb, annál könnyebben varázsolsz, annál
+    könnyebben tanulsz képzettségeket, varázslatokat, és annál
+    jobban nõ a mágia pontod szintlépéskor.
+  Bölcsesség: minél magasabb, annál nehezebben sebeznek rajtad
+    varázslatokkal és annál több órát kapsz szintlépéskor, amit
+    tanulásra és fejlesztésre fordíthatsz.
+  Karizma: ettõl függ, hogy az agresszív szörnyek megtámadnak-e, mikor
+    bemész hozzájuk vagy sem. Sõt, az alkudozásba is beleszámít.
+
+A tulajdonságok feljesztése órákból történik, amiket szintlépéskor kapsz.
+A tulajdonságok parancs kiírja aktuális tulajdonságaidat (bónuszok nélkül), 
+maximális tulajdonságaidat, hogy hány órát fordíthatsz fejlesztésre és hogy 
+az egyes tulajdonságok fejlesztése hány órába kerül. 
+Tárgyak, varázslatok adhatnak tulajdonság bónuszokat.
+
+Fõbb képzettségek:
+  Szúró: minél jobb, annál könnyebben találod el ellenfeled szúró
+    típusú fegyverrel.
+  Vágó: ugyanez vágó típusú fegyverrel.
+  Zúzó: ugyanez zúzó típusú fegyverrel.
+  Kéziharc: minél jobb, annál könnyebben találod el ellenfeled
+    puszta kézzel.
+  Második (ill. néhány osztálynak harmadik, negyedik) támadás: többször
+    ütsz egy körben
+
+Képzettségeket, varázslatokat órákért tanulhatsz, amiket szintlépéskor
+kapsz. A képzettségek ill. varázslatok parancs kiírja képzettségeid ill.
+varázslataid szintjét és azt, hogy hány órát használhatsz fel tanulásra.
+(Ugyanezek a parancsok info, vagy röviden i paraméterrel meghívva kiírják,
+hogy mely képzettségeket ill. varázslatokat milyen szinten kezdhetsz
+tanulni.)
+
+Lásd még: tulajdonsagok, kepzettsegek, varazslatok

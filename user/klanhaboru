@@ -1,0 +1,43 @@
+Brutalian a klanhaborukra naponta kerulhet sor. Ha valaki kiszabaditja a
+Haboruistent uzenhetsz neki Te is(uzen haboruisten klan), es ezzel klanod
+becsuleteert, esetleg dicsosegeert szalhatsz harcba, es megtudhatod hogy
+eddig kik jelentkeztek(uzen haboruisten kik haboru). Amennyiben mar azon a 
+napon volt egy klanhaboru, ugy egy valaszt kapsz, hogy mikor lehet legkozelebb
+klanhaborura szavazni.
+
+A haboru sok tekintetben hasonlit az arenara. Ezek kozul a legfontosabb: ha a 
+haboruban meghalsz, nem veszitesz tapasztalati pontot. A Haboruistenbeosztja a
+csapatokat a klanjuk szerinti sorrendben, es a szobajukba kerulnek ahol 
+felkeszulhetnek az osszecsapasokra. Klanhaboru legalabb ket klan jelentkezese 
+utan indulhat ellenkezo esetben sima haboru lep eletbe.(sugo haboru) A 
+klanhaboru celja, hogy dicsoseget szerezz klanodnak, akarmilyen aron. Ez
+lehet akar, hogy szovetseget kotsz mas klanokkal, es egyutt intezitek el
+egyesevel a tobbi klant, vagy pedig maganyos harcosokkent kuzdotok. A
+lenyeg, hogy a haboru vegere egyedul a Ti klanotok csapata elje tul a csatat.
+A haboru hossza meghatarozatlan, azonban ha egy idon belul nem hal meg
+senki, a halal maga fog valasztani. Ket sebzesnoveles van mielott a halal 
+bejelenti, hogy egy perc van mig O valaszt.
+
+A haboru egesz teruleten hasznalhato parancsok:
+* tulelok           - a meg eletben levoket listazza
+* esemenyek         - info a legutolso haborurol
+* haborustat        - az eddigi haboruid statisztikaja
+* csapat <szam>     - lista a <szam> csapatrol
+* csapat statok     - csapat info minden csapattagodrol
+A csapatszobakban es/vagy a harcmezon hasznalhato parancsok:
+* csapat lista      - lista a csapatodrol
+* csapat vonal      - csapatod csatornaja
+* celpontok         - lista az ellenfel azon jatekosairol, amelyek
+                      megoleseert
+                      jutalmat kapsz. Celponton kivuli jatekos megoleseert
+                      nem kapsz jutalmat! Ha nincs celpontod, segitsd azt a
+                      csapattarsadat, akinek van. Peldaul ha nalad sokkal
+                      gyengebbet olsz meg, akkor esetleg elveszed a
+                      lehetoseget a gyengebb csapattarsadtol, hogy pontot
+                      szerezzen olesbol.
+* nyomkovetes <kit/orveny> - megtudhatod, toled merre talalhato
+* lista             - lista a harcmezon veheto specialis targyakrol
+
+Lasd meg: haboru, haboruinfo, haborutargyak
+
+

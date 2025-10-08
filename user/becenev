@@ -1,0 +1,15 @@
+Ezzel a paranccsal állíthatsz be beceneveket.
+
+Például:
+becenev me descartes
+becenev mx magix
+stb...
+
+Ezután ha beírod 'uzen mx hello', akkor ez 'uzen magix hello' lesz.
+Ha paraméter nélkül adod meg, kiírja az összes becenevet.
+Ha törölni akarsz egy becenevet vagy megváltoztatni, akkor a \ karakter
+kell a becenév elé. Pl. becenev \mx - és törölte.
+
+A becenev -torles parancs segítségével törölheted ki az összes beceneved.
+
+Lásd még: alias, unalias

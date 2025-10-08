@@ -1,0 +1,51 @@
+Brutálián a háborúra félóránként kerülhet sor. Ha valaki kiszabadítja a 
+Háborúistent, neki üzenve te is részt vehetsz a háborúban (uzen haboruisten 
+haboruzni akarok) vagy megtudhatod, hogy kik jelentkeztek eddig a háborúra 
+(uzen haboruisten kik haboru). Ezek után elindul a háború.
+
+A háború sok tekintetben hasonlít az arénára. Ezek közül a legfontosabb:
+ha a háborúban meghalsz, nem veszítesz tapasztalati pontot. A Háborúisten
+beosztja a résztvevõket minimum két csapatba. Ezek után a csapatok a saját
+szobájukba kerülnek, ahol felkészülhetnek a harcra. Rövid idõ elteltével
+a csapatok egy hadszíntérre kerülnek, ahol elkezdõdhet a harc.
+
+A legfontosabb: a háború célja, hogy csak egy csapat maradjon. 
+
+%^BOLD%^WHITE%^Háborút befejezni 2 féle módon lehet. Vagy a Gyõztesek 
+szobájába, vagy a Halál szobájába kerülve. 
+Minden más módszer (command flood, disconnect, stb.) büntetést von maga 
+után! Méghozzá halmozott büntetést, azaz annyi lejátszott war-tól lesz 
+eltiltva az illetõ, ahányadik alkalommal fejezte be a wart nem a fenti 
+megengedett módszerek egyikével. Amint véget ért a jelentkezés, azaz, 
+elindul a csapatok választása, a büntetés érvénybe lép a szabálytalanul 
+kilépõkkel szemben.%^RESET%^
+
+A nyeremények: a gyõztes csapat tagjai tp-t és pénzt kapnak. Ezenkívül, ha
+hozzád méltó ellenfélt ölsz meg, szintén kapsz jutalmat.
+
+A háború egész területén használható parancsok:
+* tulelok           - a még életben lévõket listázza
+* esemenyek         - infó a legutolsó háborúról
+* haborustat      - az eddigi háborúid statisztikája
+* csapat <szám>     - lista a <szám> csapatról
+
+A csapatszobákban és/vagy a harcmezõn használható parancsok:
+* csapat lista      - lista a csapatodról
+* csapat vonal      - csapatod csatornája
+* celpontok         - lista az ellenfél azon játékosairól, amelyek megöléséért
+          jutalmat kapsz. Célponton kívüli játékos megöléséért
+          nem kapsz jutalmat! Ha nincs célpontod, segítsd azt a 
+          csapattársadat, akinek van. Például ha nálad sokkal
+          gyengébbet ölsz meg, akkor esetleg elveszed a
+          lehetõséget a gyengébb csapattársadtól, hogy pontot
+          szerezzen ölésbõl.  
+* nyomkovetes <kit/orveny> - megtudhatod, tõled merre található  
+* lista             - lista a harcmezõn vehetõ speciális tárgyakról
+  
+A háború bejárata a fõvárosban található.
+
+    Sok szerencsét és jó háborúzást!
+  
+            Andrey       
+
+lásd még: haboruinfo, haborutargyak

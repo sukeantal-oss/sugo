@@ -1,0 +1,18 @@
+A mud sokkal jobban élvezhetõ, ha színes a terminálod. A különbözõ típusú
+információkat a színük alapján meg lehet különböztetni. A "setenv" parancs
+segítségével megadhatod terminálod protokollját és máris színesebben láthatod
+a világot.
+
+Használhatsz színeket beszélgetésekben is. A kulcsszavakat %%%^^^ %%%^^^ jelek közé
+kell rakni, ennyi az egész.
+A kulcsszavak:
+%^RED%^RED    %^BLUE%^BLUE    %^ORANGE%^ORANGE    %^YELLOW%^YELLOW    %^GREEN%^GREEN    %^BLACK%^BLACK    %^WHITE%^WHITE    %^CYAN%^CYAN    %^MAGENTA%^MAGENTA 
+%^BOLD%^B_RED  %^BOLD%^BLUE%^B_BLUE  %^BOLD%^ORANGE%^B_ORANGE  %^BOLD%^YELLOW%^B_YELLOW  %^BOLD%^GREEN%^B_GREEN  %^BOLD%^BLACK%^B_BLACK  %^BOLD%^WHITE%^B_WHITE  %^BOLD%^CYAN%^B_CYAN  %^BOLD%^MAGENTA%^B_MAGENTA 
+%^RESET%^FLASH  BOLD    INITTERM  RESET     WINDOW   ENDTERM
+
+Példa: Ez %%%^^^BOLD%%%^^^RED%%%^^^piros%%%^^^RESET%%%^^^.
+A "piros" szó pirosan, kiemelve fog látszódni.
+A terminálok automatikusan resetelõdnek a sor végén.
+Ha sor közepén akarsz resetelni, használd a RESET kulcsszót.
+
+Lásd még: terminal, setenv

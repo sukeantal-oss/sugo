@@ -1,0 +1,35 @@
+A következõ parancsokkal tudsz több emberrel beszélgetni egyszerre:
+
+aukcio        - tárgyakkal kapcsolatos dolgok megvitatására szolgál
+bug           - játékkal kapcsolatos hibákat itt lehet jelenteni (logolódik)
+duma          - itt lehet bármirõl beszélgetni
+elit          - követek használhatják
+felisten      - félistenek láthatják
+foci          - focival kapcsolatos dolgokat lehet rajta megbeszélni
+grat          - gratulálhatsz a játékosoknak(szint, remort, esküvõ...)
+haboru        - a háborúhoz kapcsolódik
+hip           - más mudokon levõ játékosokkal beszélgethetsz rajta
+kezdo         - itt nyugodtan felteheted a kérdéseid
+kláncsatornák - csak klántagok látják
+koldul        - pénzt, cuccot kunyerálhatsz :)
+nagykovet     - nagykövetek használhatják
+vita          - veszekedhetsz másokkal, káromkodhatsz, de itt sem
+                zaklathatsz masokat
+
+Érzéseket is el lehet küldeni a csatornákon. Pl:
+duma: bucsut int.
+
+Ezután azoknak, akiknek a csatorna be van kapcsolva, ez jelenik meg:
+<duma> Descartes bucsut int.
+
+A "listaz" parancs segítségével megtudhatod kik látják még a csatronát. Pl:
+listaz duma
+
+Az "elozo" parancs segítségével megtudhatod mi volt a csatornán az utolsó 20
+üzenet.
+
+Pl: listaz duma, elozo duma
+
+Ha le akarsz tiltani egy csatornát, csak a nevét kell begépelned: duma
+
+Lásd még : kommunikacio, csatik, csatiszin

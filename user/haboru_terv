@@ -1,0 +1,24 @@
+%^BOLD%^WHITE%^** A jelenlegi tervezet a haborus modositasokrol **%^RESET%^
+Ertelemszeruen a dolog meg fejlodesi stadiumban van, nem vegleges. Javaslatok
+haboru tablara, a legfrissebb verzio mindig itt lesz olvashato.
+-Statok:
+ -a cel, hogy a jatekos eddigi osszes t/o/p-jat latni lehessen, valamint
+  a t/h, o/h, p/h ertekekkel az "aktiv" wartudasat reprezentaljuk;
+  azaz, hogy a tablak a legjobb (es aktiv) warozokat mutassak.
+ -ebbol kovetkezoen amig nincs jelentos erv, ami az ellenkezojerol meggyozne,
+  a nullazas lehetosege meg lesz szuntetve, es a 4-6 tablakon az utolso 100
+  war alapjan lesznek az adatok; igeny szerint ez a 100 lehet kisebb-nagyobb,
+  attol fuggoen mennyire akarjatok valtozatosra a dolgot. bevezeteskor egyszer
+  lesz meg lehetoseg nullazni, kb 1-2 napig.
+  1, esetleg 2 warnelkuli het utan a t/h, o/h, p/h ideiglenes levonast kapnak,
+  ami idovel novekszik, am kov. wart kovetoen eltunik. azert 1 het, hogy ne
+  lehessen 2 hetente 1 ejjel becsuszott jo warral fennmaradni az elsok kozott.
+-Valasztas:
+ -a cel, hogy altalaban az eros kariju es jo wartudasu jatekosok valasszanak;
+ -megoldas jelenleg: a p/h vagy a t/h+o/h ertek novelje a kari "tappontjat",
+  es a legjobb tapponttal rendelkezok kozul random kerulne ki a ket vezeto,
+  akik kozul a gyengebb kezd;
+ -minel tapabb valaki, annal nagyobb eselye van ra, hogy vezetni fog;
+ -valamint, a vezetok a jelentkezok "felso felebol" lennenek valasztva, azaz
+  x jelentkezo eseten a legjobb statu x/2 db. emberbol.
+(Helm, utolso modositas: 041008)

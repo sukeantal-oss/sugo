@@ -1,0 +1,14 @@
+%^BOLD%^RED%^Stilus       2 vago   Ketkezes vago      Stilustrukk       Ketkezes trukk
+%^CYAN%^                                      (Csak 2 fegyver)     (Csak ketkezes)%^RESET%^
+%^BOLD%^Bika          %^BOLD%^GREEN%^Igen%^RESET%^        %^RESET%^RED%^Nem%^RESET%^               %^BOLD%^GREEN%^Igen%^RESET%^                 %^RESET%^RED%^Nem%^RESET%^
+%^BOLD%^Forgoszel     %^BOLD%^GREEN%^Igen%^RESET%^       %^BOLD%^GREEN%^Igen%^RESET%^                %^RESET%^RED%^Nem%^RESET%^                %^BOLD%^GREEN%^Igen%^RESET%^
+%^BOLD%^Kigyo         %^BOLD%^GREEN%^Igen%^RESET%^        %^RESET%^RED%^Nem%^RESET%^               %^BOLD%^GREEN%^Igen%^RESET%^                 %^RESET%^RED%^Nem%^RESET%^
+%^BOLD%^Majom         %^BOLD%^GREEN%^Igen%^RESET%^       %^BOLD%^GREEN%^Igen%^RESET%^                %^RESET%^RED%^Nem%^RESET%^                %^BOLD%^GREEN%^Igen%^RESET%^
+%^BOLD%^Monguz        %^BOLD%^GREEN%^Igen%^RESET%^        %^RESET%^RED%^Nem%^RESET%^               %^BOLD%^GREEN%^Igen%^RESET%^                 %^RESET%^RED%^Nem%^RESET%^
+%^BOLD%^Nad           %^BOLD%^GREEN%^Igen%^RESET%^       %^BOLD%^GREEN%^Igen%^RESET%^                %^RESET%^RED%^Nem%^RESET%^                %^BOLD%^GREEN%^Igen%^RESET%^
+%^BOLD%^Pok           %^BOLD%^GREEN%^Igen%^RESET%^        %^RESET%^RED%^Nem%^RESET%^               %^BOLD%^GREEN%^Igen%^RESET%^                 %^RESET%^RED%^Nem%^RESET%^
+%^BOLD%^Rozsa         %^BOLD%^GREEN%^Igen%^RESET%^       %^BOLD%^GREEN%^Igen%^RESET%^                %^RESET%^RED%^Nem%^RESET%^                %^BOLD%^GREEN%^Igen%^RESET%^
+%^BOLD%^Sarkany       %^BOLD%^GREEN%^Igen%^RESET%^       %^BOLD%^GREEN%^Igen%^RESET%^                %^RESET%^RED%^Nem%^RESET%^                %^BOLD%^GREEN%^Igen%^RESET%^
+%^BOLD%^Sas           %^BOLD%^GREEN%^Igen%^RESET%^       %^BOLD%^GREEN%^Igen%^RESET%^                %^RESET%^RED%^Nem%^RESET%^                %^BOLD%^GREEN%^Igen%^RESET%^
+%^BOLD%^Vadkan        %^BOLD%^GREEN%^Igen%^RESET%^        %^RESET%^RED%^Nem%^RESET%^               %^BOLD%^GREEN%^Igen%^RESET%^                 %^RESET%^RED%^Nem%^RESET%^
+%^BOLD%^Vipera        %^BOLD%^GREEN%^Igen%^RESET%^        %^RESET%^RED%^Nem%^RESET%^               %^BOLD%^GREEN%^Igen%^RESET%^                 %^RESET%^RED%^Nem%^RESET%^

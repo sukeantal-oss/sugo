@@ -1,0 +1,8 @@
+Ha több azonos nevû tárgy közül a valahanyadikkal akarsz valamit
+csinálni, akkor a következõ módon teheted: 
+<parancs [tárgy_neve] [sorszám]>
+
+elad kes 3
+nez hulla 2
+kivesz balta hulla 2
+

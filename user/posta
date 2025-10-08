@@ -1,0 +1,8 @@
+Raknoorban találsz egy postát, ott elolvashatod leveleidet a <level>
+parancs segítségével. Ha levelet akarsz írni valakinek, akkor használd
+a <level [jatekos neve]> szintakszist.
+A mud be van kapcsolva az intermud rendszerbe, ami azt jelenti, hogy
+tudsz levelet küldeni más mudra, ami szintén rá van kapcsolva. Ennek
+a szintakszisa: <level [jatekos_neve@mud_neve]>
+A <mudlista> parancs segítségével tudhatod meg, mely mudok vannak
+rákapcsolva a rendszerre.

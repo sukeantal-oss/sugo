@@ -1,0 +1,125 @@
+Created by Andrey V1.1 '00.03.21
+
+Nehany alap dolog, amit az approvalasnal figyelembe veszunk:
+
+o A terulet jellege.  Mindenkeppen FANTASY jellegunek kell lennie (mese es 
+  tortenelmi teruletek kilove). Lehetoleg egy dologrol szoljon, ez lehet
+  egy bizonyos faj (pl. goblinok, elfek), vagy osztaly (pl. tolvajok, 
+  barbarok) vagy terulet (pl. varos, kastely) vagy egy tortenet. Persze
+  ezeket lehet ertelemszeruen kombinalni, de jobb, ha csak nehany dolog
+  van benne, de az reszletesen, mintha mindenbol egy keves.
+  Kuldetest kesobb irhatsz majd hozza.
+
+o Fizikai szerkezet.  Ha terkepet rajzolnal a teruletedrol, akkor ne 
+  legyen ket szoba ugyanazon a helyen. Ha pl. nyugatra vezet egy kijarat,
+  akkor onnan legyen keletre. Ha pl. delre egy kastely terul el, akkor
+  ne legyen megegy delkeletre. Ezek alol kivetelt kepeznek a labirintus
+  tipusu teruletek. Ellenorizd, hogy minden szoba kijarata megfeleloen
+  legyen bekotve.
+  Ha a teruleted tobb reszbol all, akkor az atvezetes a reszek kozott ne 
+  tunjon fel, egy egesznek latszodjon a terulet. A teruletbe tehetsz boltot 
+  vagy kocsmat, de csak ha beleillik es a terulet el tudja tartani. Nincs 
+  ertelme boltot tenni egy kis teruletbe vagy egy temetobe.
+  A kezdoszobanak legyen valamilyen felismerheto neve pl. start.c, kapu.c 
+  vagy bejarat.c.
+
+o Leirasok.  A leirasok legalabb haromsorosak legyenek. Persze ahol van
+  ertelme, ott fel oldal is lehet. Hasznalj ekezeteket es a fontos
+  dolgokat szinnel is kiemelheted. Kepzeld magad a szobaba, mit latnal,
+  ha ott lennel, mit csinalnal. Ird le a szagokat, hangokat. Ne masold
+  at a leirasokat, minden szobanak kulon irjal. Minden FONEV-rol irjal 
+  leirast!!!
+  Az erzesek formatuma pl.: "nagyot asit." helyett "Kapuor nagyot asit."
+  Az erzesek, beszedek erteke pedig ne legyen tul magas, kb. 5 a jo. 
+  A szagok, hallgatasok nagybetuvel kezdodjenek es a pontot ne felejtsd
+  el a vegerol.  
+  Ismert fantasy neveket pl. Conan, Menzoberranzan ne hasznalj.
+
+o Helyesiras. Irasjelek utan kell a space, elotte nem. Tagmondatokat
+  vesszovel valaszd el. Szoismetleseket keruld.
+
+o Szornyek. A szornyek szintje kozel azonos legyen. Lehet nehany erosebb is,
+  ezek nehezen elerhetoek legyenek, ill. ezeknel legyenek a jobb cuccok.
+  A faj es a szint legyen osszeegyeztetheto, pl. egy eger ne legyen 100as
+  szintu, egy sarkany meg 1es. Az szornyek szama legyen aranyos a terulet 
+  meretevel. Ne legyen olyan a terulet, hogy minden szoba ures, vagy minden
+  szobaban szorny van. Persze ez fugg a fajtol is, pl. olyat el tudok 
+  kepzelni, hogy egy szobaban ot mano van, de hogy ot sarkany?!!!
+  100as szintu lenynel ne legyen nagyobb.
+  A szornyeknek ne hasrautesszeruen adj osztalyt! Egy hatalmas kastely uranak 
+  lehet 3 osztalya, de egy sima zombi ne legyen kardmuvesz/fejvadasz/tuzmagus.
+  A szornyeknek ertelemszeruen adjal penzt.
+
+o Targyak. Ritka targyak joval jobbak lehetnek a simaknal, de tobbszor is
+  kell leolni a szornyet, hogy talaljal nala. De semmikepp ne legyenek a 
+  teruleten a ritka targyak tulsulyban, mindenkepp legyen legalabb ugyanannyi
+  atlagos, de inkabb tobb. A ritka targyakat 
+    1) Nehez legyen megtalalni - legyen eldugva, vagy csak bizonyos
+                                        szekvencia utan lehessen megtalalni
+    2) Nehez legyen megszerezni - EROS lenynel legyen: ez azt is jelenti, hogy
+                                  a leny szintje kb. masfelszer nagyobb legyen,
+                                  mint a targy szintje.
+                                - vagy ladaban legyen
+                                  es a kulcsa legyen eros lenynel.
+    3) A targynak legyen ANTIS-ja - bizonyos jellem, vagy osztaly nem 
+                                    hasznalhatja
+  A minimum szint szerint legyen egyre erosebb a targy es tobb korlatozasa.
+  Pl. kezdoknek ne legyen ritka targy, utana csak kis ritkasaggal, nehany antis
+  felisteneknek lehet 50es ritkasag folott, de tobb antis legyen benne. 50es
+  ritkasag folotti egyelore nem ajanlott.
+  Egy ritka cucc ne legyen tobb lenynel is egyszerre es egy lenynel 3-4 cuccnal
+  ne nagyon legyen tobb.
+  Legyel kreativ a targy neveben. A leiras alapjan el lehessen kepzelni, hogy
+  hogyan is nez ki. Ne probald a legeslegtapabb cuccot kihozni a balancebol.
+  A bonuszok es antisok legyenek ertelemszeruek, pl. ne legyen egy sima ingnek
+  mellvert szintu ac-ja, egy acelmellvertet magusok ne viselhessenek.   
+  Figyelj a targyak sulyara es ertekere is!
+  Kulcsoknak egyeni azonositot adjal, mert sima "kulcs" ID vel minden ajtot
+  ki fog tudni nyitni, legyen pl. _szkastely_kulcs_, ami mashol nem valoszinu,
+  hogy elo fog fordulni.
+  Etelek, italok szovegformatuma "megeszik egy kenyeret." alapjan. Alkoholos
+  italok tipusa is legyen alkohol.
+  Egyeb targyak, kulcsok ne adjanak bonuszokat es a szintuk 1 legyen.
+  Kovacsnal es boltosnal ne legyen eros cucc, foleg nem ritka.
+
+o Kezdok. A kezdoknek szolo terulet ne legyen bonyolult, sok segito informacio
+  legyen benne. Rengeteg kulonfele apro szorny lehet benne, de keves targy 
+  (ritka ne legyen).
+
+o Balance. Amire figyelni kell:
+  - ritka cucc rarity/2 %-al jobb lehet.
+  - csak jo vagy csak gonoszok altal viselheto cuccok 5%-al jobbak lehetnek
+  - a sulyt es az erteket el ne felejtsd
+  - nemelyik tipusu targy nem adhat immunitast(csizma, kesztyu, nadrag, alkarpancel)
+  - statbonuszok max +/-1-ek lehetnek, kiveve a pancel es sisak
+  Fegyverek:
+  - tb es sb kulonbsege max 10 lehet
+  - wc-k kulonbsege max 7, kiveve ijnal
+  - zuzonak a legnagyobb a damageja, utana vago, vegul szuro
+  - tb es sb aranya: 
+    szuro    : tb nagyobb az sb-nel
+    vago, ij : tb es sb kozel azonos
+    zuzo     : sb nagyobb a tb-nel
+  - ij: a wc 2. erteke mindig 4
+    mindig ketkezes
+  - ketkezes fegyver: damage 1.5x nagyobb lehet
+     hp/mp/sp/imm/ac/weight 2x nagyobb
+     tb sb ugyanakkora, mint az egykezesnel 
+
+pl. Egy nem ritka, de konnyu es ertekes kard:
+    55. szint 8d7 +9tb +8sb 5500arany 600deka
+    Egy konnyu, de nem ritka mellvert:
+    55. szint 45ac 11000arany 2750deka
+
+Ha keszen vagy a terulettel kuld el a madcat@mailbox.hu cimre. 
+Mellekelj egy szoveges altalanos magyarazatot, hogy mirol szol a terulet, 
+amiben azt is leirhatod, hogy mit tervezel a terulettel kapcsolatban, amit 
+az editorral nem tudtal megvalositani.
+Mi reszletesen meg fogjuk nezni a teruletet es majd szolunk, ha vegeztunk 
+vele. Valoszinu nem egy nap alatt irtad, igy mi sem fogjuk tudni egy nap
+alatt approvalni.
+Ha megfelelo mennyisegu, ill. minosegu teruletet irsz, akar halhatatlan
+is lehetsz, ha kered, es tovabbfejlesztheted a teruleted, javitgathatod,
+akar kuldetest is irhatsz bele.
+
+                                            Andrey

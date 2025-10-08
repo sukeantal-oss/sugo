@@ -1,0 +1,28 @@
+%^CYAN%^Brutálián négy alaposztály létezik: %^BOLD%^%^WHITE%^harcos, pap, mágus, tolvaj.%^RESET%^%^CYAN%^
+Mindegyik alaposztályhoz tartoznak speciális osztályok. Az alaposztalyok, 
+a hozzájuk tartozó speciális osztályok, valamint az egyes osztályok 
+engedelyezett jellemei :
+
+%^BOLD%^  Harcos %^WHITE%^       J S G      %^CYAN%^         Pap     %^WHITE%^          J S G
+%^RESET%^%^CYAN%^    Lovag %^BOLD%^%^WHITE%^      J   %^RESET%^%^CYAN%^                  Paladin %^BOLD%^%^WHITE%^        J
+%^RESET%^%^CYAN%^    Erdõjáró   %^BOLD%^%^WHITE%^ J S              %^RESET%^%^CYAN%^     Szerzetes   %^BOLD%^%^WHITE%^    J
+ %^RESET%^%^CYAN%^   Kardmûvész %^BOLD%^%^WHITE%^ J S G            %^RESET%^%^CYAN%^     Druida     %^BOLD%^%^WHITE%^       S
+ %^RESET%^%^CYAN%^   Barbár     %^BOLD%^%^WHITE%^   S G             %^RESET%^%^CYAN%^    Sámán      %^BOLD%^%^WHITE%^       S G
+ %^RESET%^%^CYAN%^   Gladiátor  %^BOLD%^%^WHITE%^     G             %^RESET%^%^CYAN%^    Hírnök     %^BOLD%^%^WHITE%^         G
+  
+ %^CYAN%^ Tolvaj       %^BOLD%^%^WHITE%^ J S G      %^CYAN%^         Mágus         %^BOLD%^%^WHITE%^    J S G
+  %^RESET%^%^CYAN%^  Bárd        %^BOLD%^%^WHITE%^J S G            %^RESET%^%^CYAN%^     Mentalista  %^BOLD%^%^WHITE%^    J S
+  %^RESET%^%^CYAN%^  Fejvadász   %^BOLD%^%^WHITE%^  S G            %^RESET%^%^CYAN%^     Elementalista%^BOLD%^%^WHITE%^   J S G  
+  %^RESET%^%^CYAN%^  Árnyjáró    %^BOLD%^%^WHITE%^    G             %^RESET%^%^CYAN%^      Tûzmágus%^BOLD%^%^WHITE%^        S G
+  %^RESET%^%^CYAN%^  Útonálló    %^BOLD%^%^WHITE%^    G            %^RESET%^%^CYAN%^       Vízmágus%^BOLD%^%^WHITE%^      J S
+  %^RESET%^%^CYAN%^  Renegát     %^BOLD%^%^WHITE%^J S              %^RESET%^%^CYAN%^       Földmágus%^BOLD%^%^WHITE%^     J S G
+                                 %^RESET%^%^CYAN%^       Levegõmágus%^BOLD%^%^WHITE%^   J S G
+                                 %^RESET%^%^CYAN%^       Õselemmágus%^BOLD%^%^WHITE%^   J S
+                                 %^RESET%^%^CYAN%^     Illuzionista%^BOLD%^%^WHITE%^      S G%^RESET%^%^CYAN%^
+                                      Nekromanta  %^BOLD%^%^WHITE%^        G
+                                      %^RESET%^%^CYAN%^Energiamágus %^BOLD%^%^WHITE%^   J S
+                                      %^RESET%^%^CYAN%^Harcimágus %^BOLD%^%^WHITE%^     J S G
+    
+%^CYAN%^%^BOLD%^Jelölések: %^BOLD%^%^WHITE%^J - jó, S - semleges, G - gonosz.
+
+%^BOLD%^%^CYAN%^Lásd még:%^BOLD%^%^WHITE%^ sugo <osztálynév>

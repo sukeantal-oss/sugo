@@ -1,0 +1,5 @@
+A játékban található rúnák 1 és 50-es szint között változnak. Véletlenszerûen generálódnak
+az ellenfél halálakor. Kizárólag az erre a célra írt tárgyakba lehet õket beletenni, és
+csak akkor, ha a tárgy tipusa megegyezik a rúna tipusával, és a szintje minimum akkora.
+
+Lasd meg: runaz

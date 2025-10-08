@@ -1,0 +1,33 @@
+
+Brutálián a félisten játékosok számára, az újjászületés segítésére rekeszek
+állnak rendelkezésre. Ezek a rekeszek bizonyos szobákban elérhetõk, ezeket
+a térképek feltüntetik.
+A rekeszek parancsai:
+  - kiberel     : új rekeszt bérelhetsz
+  - megszüntet  : megszüntetheted rekeszed
+  - tartalom    : megnézheted rekeszed tartalmát
+  - hozzafernek : kilistázza a rekeszedhez hozzáférõ játékosokat
+  - engedelyez <játékos> : engedélyezi <játékos> számára a rekeszedhez
+    való hozzáférést 
+  - letilt <játékos>     : letiltja <játékos> számára a rekeszedhez való
+    hozzáférést 
+  - kiker       : egy tárgyat kikérhetsz a rekeszedbõl
+    kiker +<jatekos> <targy> : más játékos rekeszébõl kérhetsz ki cuccot
+  - berak       : elhelyezhetsz egy tárgyat a rekeszben
+    berak <targy> +<jatekos> : más játékos rekeszében helyezhetsz el tárgyat
+  - kiker3      -  Kivehetsz egy tárgyat valamelyik rekeszbõl.
+  - tartalom2   -  Tárgyak kategória szerinti listázása.
+  - tartalom3   -  Tárgyak szint szerinti listázása.
+  - tartalom3 kollekcio :  kollekciok listazasa, pl 'tartalom3 kollekcio lovagi'
+                           az osszes kollekcio listazasa: 'tartalom3 kollekcio'
+  - tartalom3 +playernev:  uj rekesz felvetele a listara, pl 'tartalom3 +troff'
+  - tartalom3 -playernev:  rekesz eltavolitasa a listarol,pl 'tartalom3 -troff'
+  - tartalom3 --        :  lista torlese,                 pl 'tartalom3 --'
+  - tartalom3 tipus     :  adott tipusu targyak listazasa,pl 'tartalom3 sisak'
+
+
+A rekesz használata is azt a célt szolgálja, hogy egyszerre egy ember több
+játékossal ne játsszon. 
+
+Lásd még: multiplaying, torvenyek
+

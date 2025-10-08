@@ -1,0 +1,40 @@
+Beállíthatod a promptodat, amit minden sor elején látsz.
+A default prompt egy '>' jel.
+Az 'allit PROMPT semmi' paranccsal kitörölheted promptodat.
+
+Használhatod a következõ változókat:
+  $K : Aktualis konyvtar (csak halhatatlanoknak).
+  $L : 'Láthatatlan' felirat, ha láthatatlan vagy.
+  $l : 'láthatatlan' felirat, ha láthatatlan vagy.
+  $E : Max. életerõ pontod.
+  $e : Aktuális életerõ pontod.
+  $M : Max. mágiapontod.
+  $m : Aktuális mágiapontod.
+  $S : Max. staminapontod.
+  $s : Aktuális staminapontod.
+  $T : A következõ szinthez szükséges exp.
+  $t : Aktuális exp.
+  $p : Nálad lévõ pénzmennyiség.
+  $V : A mud neve, nagybetûvel kezdve.
+  $v : A mud neve, csupa kisbetûvel.
+  $N : A neved, nagybetûvel kezdve.
+  $n : A neved, csupa kisbetûvel.
+  $i : Tükörképeid száma.
+  $b : Kéregbõreid száma.
+  $a : Álárnyaid száma.
+  $y : Lángnyelveid száma.
+  $z : Sziklabõreid száma.
+  $r : Tértöréseid száma.
+  $I : A hirnév pontod.  
+  $k : Az aktualis harci kedved.
+  $j : Jegalakjaid szama.
+
+Például egy jól használható prompt: allit PROMPT $ehp $mmp $ssp $Texp>
+    Igy '60hp 50sp 150mp 2Kexp>' lesz a promptod a sor elejen.
+
+Ki is színezheted promptodat (lásd sugo szinek), ha a terminálod színesre
+van állítva (lásd sugo terminal).
+
+Egy színes prompt például:
+allit PROMPT %^BOLD%^%^BLUE%^$e%^RESET%^hp %^YELLOW%^$s%^RESET%^sp %^BOLD%^
+    %^RED%^$m%^RESET%^mp %^CYAN%^$T%^RESET%^exp%^BOLD%^%^BLACK%^>%^RESET%^

@@ -1,0 +1,26 @@
+Minden háború elején kapsz 50 pontot, amit elkölthetsz. Ha megölsz valakit
+a célpontjaid közül, növelheted pontjaid számát. A parancsok: <lista> ill.
+<vesz <szám>>.
+
+                  A harcmezõn vehetõ tárgyak listája
+
+1. Gyenge gyógyital 15 pont - 160 hp-t gyógyít. Használat: <iszik ital> 
+2. Erõs gyógyital 30 pont - 400 hp-t gyógyít. Használat: <iszik ital> 
+3. Gyenge energiaital 15 pont - 160 mp-t regenerál. Használat: <iszik ital>
+4. Erõs energiaital 30 pont - 400 mp-t regenerál. Használat: <iszik ital>
+5. Háló 5 pont - A <kifeszit halo> parancs után aki elõször hagyná el a
+                  szobát, az belegabalyodik és egy rövid ideig nem tud
+                  továbbmenni.
+6. Megidézés tekercse 60 pont - A <megidez <játékos>> parancs után a játékos
+                                elõtted fog megjelenni.
+7. Teleport tekercse 20 pont - A <teleportal <játékos>> parancs után a 
+                               játékos mellett fogod találni magad.
+8. Örvény varázstekercse 15 pont - A <térugrik örvényhez> parancs után a
+                                   legközelebbi örveny mellett fogod találni
+                                   magad. Az örvenyek a harcmezõn elszórva,
+                                   lassan mozognak. Mindegyiknek két vége van.
+                                   Ha az egyik végénél kiadod a <csuszik 
+                                   <játékos>> parancsot, akkor a másik vége
+                                   a játékosnál fog megjelenni és te átcsúszol
+                                   hozzá. A csúszás nem kerül semmibe.
+9. Élet fáklyája 75 pont - Bal kezedben tartva egyszer túlélheted a halált.

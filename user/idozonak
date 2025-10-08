@@ -1,0 +1,17 @@
+A következõ idõzónákat ismeri a mud:
+
+AET Austrailian Eastern Standard Time
+AWT Australian Western Standard Time
+MT Moscow Time
+CET Central European Time (default)
+GMT Greenwich Mean Time
+BST British Summer Time
+AST Atlantic Standard Time
+EST Eastern Standard Time
+CST Central Standard Time
+MST Mountain Standard Time 
+PST Pacific Standard TIME
+
+A többi idõzónát könnyen hozzá lehet adni, ha tudod az eltérését
+valamelyiktõl. Irj levelet a fõnököknek (level arch), ha szükséged
+van új idõzónára.

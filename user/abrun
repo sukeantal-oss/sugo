@@ -1,0 +1,83 @@
+%^BOLD%^BLACK%^;%^RESET%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^BOLD%^BLACK%^;%^RESET%^
+%^BOLD%^BLACK%^|%^RESET%^MAGENTA%^/%^RESET%^                            %^CYAN%^A%^BOLD%^WHITE%^.  %^RESET%^CYAN%^B%^BOLD%^WHITE%^.  %^RESET%^CYAN%^R%^BOLD%^WHITE%^.  %^RESET%^CYAN%^U%^BOLD%^WHITE%^.  %^RESET%^CYAN%^N%^BOLD%^WHITE%^.                             %^RESET%^MAGENTA%^\%^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^BOLD%^%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^CYAN%^~%^RESET%^RED%^                                 ARAK                                    %^BOLD%^CYAN%^~ %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^RESET%^ORANGE%^ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - %^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^Ez egy viadal rendszer, melyben nem a jatekosok kuzdenek egymas ellen,      %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^hanem helyettuk a harci demonjaik kuzdenek.                                 %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^Minden jatekos vehet maganak egy, vagy tobb harci demont.(Maximum 10-et)    %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                                                                            %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^1. demon       : 2 millio                                                   %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^2. demon       : 1,8 millio                                                 %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^3. demon       : 1,6 millio                                                 %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^minden tovabbi : 1,5 millio                                                 %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                                                                            %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A harci demonoknak egyedi nevet lehet adni. Az arban benne foglaltatik a    %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^demonok megorzese es etetese, tehat a demonok nem maszkalnak a playerekkel  %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^(nem kovetok), a ketrecekben tartjak oket amig a Gazda tapol vagy penzel    %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^vagy barmit is csinal.                                                      %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                                                                            %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A megvasarolt demonok kezdetben elso szintuek, minden statjuk 18-as, es nem %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^rendelkeznek semmilyen skill es varazslat ismerettel sem. Maximum 100-as    %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^szintre lehet oket felfejleszteni. Szintlepeskor elkotheto pontot kapnak,   %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^szintenkent 1-et.                                                           %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A fegyverhasznalat (vago, zuzo, szuro, keziharc) nem pontba, hanem 100.000  %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^aranyba kerul.                                                              %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^BOLD%^%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^CYAN%^~%^RESET%^RED%^                                PONTOK                                   %^BOLD%^CYAN%^~ %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^RESET%^ORANGE%^ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - %^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A pontokat az alabbi dolgokra lehet felhasznalni:                           %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^ a, Stat fejlesztes. 18..24 kozott 1 stat fejlesztes 1 pont, a folott       %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^    2 pont.                                                                 %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^ b, Kepzettseg elsajatitas: 1 pontert 1 kepzettseget tanithat meg neki a    %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^    gazdaja, csakis olyat, amit o is ismer, es olyan szinten fogja a demon  %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^    is ismerni, amilyen szinten a gazdaja. Nyilvan a faji skilleket a demon %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^    is 6-os szinten fogja ismerni.                                          %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^ c, Varazslat/enek elsajatitas: 1 pontert 1 varazslat, hasonlo rendszer     %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^    szerint, mint a kepzettseg.                                             %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^ d, Eletero, stamina, mana megnovelese.                                     %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                                                                            %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A gazda tehat szabadon donthet a demonanak fejlesztese felol, olyan iranyba %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^azt, amilyen iranyban gondolja. Ha valamely kepzettseget szeretne megtani-  %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^tani a demonanak,fejleszti akkor kenytelen az adott kepzettseget/varit      %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^ismero komboba remortolni, hogy o maga is megismerje az atadando tudast.    %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                                                                            %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A harci demonok egymassal viadal keretein belul osszeereszthetoek. A viada- %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^lokra fogadasokat lehet kotni a playerek altal, igy ez egyfajta szerencse-  %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^jatek formaban is uzheto. A demon aki az eles viadalban legyoz egy masik    %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^demont, az szintet lep. A vesztes szintet veszit, valamint elvesziti 1      %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^random valasztott kepzettseg/varazslat ismeretet. Ha van elkoltetlen pontja %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^a demonnak, akkor a pontot veszti elobb el.                                 %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^BOLD%^%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^CYAN%^~%^RESET%^RED%^                                VIADALOK                                 %^BOLD%^CYAN%^~ %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^RESET%^ORANGE%^ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - %^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A viadalok tipusa:                                                          %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^  - eles merkozes: ket demon eles viadala. A gyoztes szintet lep, a vesztes %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                   szintet veszit.                                          %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^  - edzo merkozes: a demonodnak a bebortonzes varazstekercsevel elintez-    %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                   hetsz szornyek elleni kuzdelmet. Ilyen meccsek soran     %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                   szintet lephet a demonod - ez a szinttol, a szorny stat- %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                   jaitol, osztalyatol, es egy kicsit a randomtol is fugg.  %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                   Egy adott szornytol maximum 3x tud fejlodni a demonod.   %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^  - olimpiai jatekok: bovebben az %^YELLOW%^abruni olimpiai jatekok%^RESET%^ cimszo alatt      %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                      olvashatsz rola.                                      %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^                                                                            %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A viadal soran a demonok szabvanyos monc uzemmodban kuzdenek egymassal.     %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^Az altaluk hasznalt parancsokat a demonok ketreceben lehet beallitani       %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^(errol tovabbi reszleteket ott talaltok).                                   %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^BOLD%^%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^CYAN%^~%^RESET%^RED%^                                 TARGYAK                                 %^BOLD%^CYAN%^~ %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^RESET%^ORANGE%^ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - %^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A demon a Gazdatol kapott targyakat (sisak, karkoto, fegyver stb.) felvehe- %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^ti kaszttol es jellemtol fuggetlenul. Ezert olyan cucc-kombinacio is        %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^kidolgozhato a demonok szamara, amelyet jatekos karakter nem viselhet.      %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^BOLD%^%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^CYAN%^~%^BLUE%^-%^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^CYAN%^~%^RESET%^RED%^                               VARAZSLATOK                               %^BOLD%^CYAN%^~ %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^:%^RESET%^ORANGE%^ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - %^BOLD%^BLACK%^:%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^A demon csakis azokat a varazslatokat hasznalhatja, amelyeket ismer. A      %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^viadal elejen a demonok magukra varazsoljak az altaluk ismert vedo varazs-  %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^latokat, maximum manara tickelnek, es utana kezdodik a viadal.              %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^Teruleti varazslatokat nem erdemes nekik tanitani, mivel szorny altal       %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^elmondott teruleti varazslat csak jatekosokra hat.                          %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^| %^RESET%^Aldast sem erdemes tanitani, nem imad semmilyen istent, igy nem rakja fel.  %^BOLD%^BLACK%^|%^RESET%^
+%^BOLD%^BLACK%^'%^RESET%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^GREEN%^-%^RED%^=%^BOLD%^BLACK%^'%^RESET%^

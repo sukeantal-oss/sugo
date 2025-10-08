@@ -1,0 +1,45 @@
+Ha az összes osztályod szintje elérte az 55-öt, újjászülethetsz.
+Ennek során újra elsõ szintûvé válsz.
+
+Az újjászületés szabályai:
+
+1. újjászületés
+
+  Egy osztályos karakter kötelezõen felvesz egy alaposztályt.
+  Két vagy háromosztályos karakter egyik alaposztályát az alaposztályhoz 
+    tartozó valamelyik speciális osztályra cseréli.
+ 
+2. újjászületés
+  
+  Két osztályos karakter az alaposztályát speciális osztályra cseréli.
+  Három osztályos karakter az egyik alaposztályát speciális osztályra cseréli.  
+
+3. újjászületés
+  Két osztályos karakter felvesz egy alaposztályt.
+  Három osztályos karakter az alaposztályát speciálisra cseréli.
+
+4. és azt követõ újjászületések(az újjászületések száma nem korlátozott):
+
+  Bármilyen csere megengedett, az általános szabályok figyelembevételével.
+
+Az ujjászületésre vonatkozó általános szabályok:
+  
+  - Az újjászületésekre vonatkozó szabályok nem opcionálisak, hanem
+kötelezõek. (Nem lehetséges például az, hogy egyosztályos karakter elsõ
+ujjászületésében nem vesz fel új osztályt)
+  - 1., 2.  es 3. remortkor nem engedélyezett az az újjászületés, amelyben a 
+többosztályú karakternek van két olyan osztálya, amely azonos alaposztályhoz 
+tartozik. (például nem lehetséges a sámán/pap vagy a barbár/kardmûvész/mágus 
+kombináció. 
+  - Az osztályokra bizonyos jellemkorlátok vonatkoznak(sugo osztalyok),
+ezeket betartva kell az osztályokat kiválasztani. (A karakter osztályainak
+megkövetelt jellemei között kell hogy legyen legalább egy közös)
+- 1., 2. és 3. remortkor figyelembe kell venni, hogy a fajoknak is lehetnek 
+jellembeli megkötéseik. Újjászületés elõtti fajod jelleme és a választott 
+új faj jelleme egyaránt korlátoz. (Nem remortolhatsz pl. kentaur fajból gonosz 
+jellemû karakterbe.)
+  - újjászületéskor új fajok is választhatók. (sugo fajok)
+  - újjaszületeskor az addig megtanult képzettségek és varázslatok
+elvesznek.
+  - Alaposztályból specializálódás természetesen csak az adott
+alaposztályhoz tartozó speciális osztályba lehetséges.

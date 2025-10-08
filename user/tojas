@@ -1,0 +1,13 @@
+Húsvét alkalmából te is festhetsz tojást a Brutálián.
+Keresd meg a mezõt, ahol a nagy kupac ajándék közé beteheted a saját magad festette meglepetést is.
+Ajándékot a 'fest tojas' paranccsal készítetsz.
+A csomagolás alatt négy kérdésre kell választ adnod, hogy elkészüljön az ajándékod.
+ 1: annak a neve, akinek készíted
+ 2: az ajándék rövid leírása /ami látszik a leltárban/
+ 3: amivel hivatkozni lehet rá: nez <csokitojas>
+   /,-el elválasztva, szóköz nélkül kell megadni! pl:csoki,mogyoros,piros/
+ 4: az ajándék hosszú leírása. Ha ránéz, ezt fogja látni
+
+Befejezés: enter, kilépés: üres sor+enter.
+Ha egy ajándék elkészült, javítási lehetõség nincs!
+Kellemes Húsvéti ünnepeket kívánunk!

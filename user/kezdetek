@@ -1,0 +1,124 @@
+ Üdvözöllek ebben a világban!
+
+Elõször is amint észrevetted, ez egy magyar nyelvû mud. Ha játszottál már
+más rendszerû mudon vagy játszottál szerepjátékot, akkor könnyû
+dolgod lesz.
+
+Az <allit> paranccsal sok mindent beállíthatsz, ami élvezhetõbbé teszi
+a játékot, pl. színesre állíthatod a terminálodat (allit TERM ansi),
+stb... Probáld ki!
+
+Elsõ teendõd, hogy begépeld: pont. Ez tartalmazza karaktered fontosabb
+jellemzõit.
+
+A szinted azt tükrözi, mennyire vagy jó a játékban. A szintlépés
+automatikusan történik, amint összegyûjtötted a szükséges tapasztalati
+pontot (exp) . Exp-t szörnyek legyõzésekor és megsebzésekor kapsz.
+Szintlépéskor nõ az életerõ, mágia és stamina pontjaid maximális értéke.
+Ezenkívül a tulajdonságaid (erõ, állóképesség, ügyesség, intelligencia,
+bölcsesség, karizma) fejlesztéséhez szükséges órákat is kapsz. A
+tulajdonságaidat az osztályod tanítómestereinél fejlesztheted.
+
+Itt látod, hogy mennyi pénz van nálad. Pénzt a megölt szörnyektõl
+szerezhetsz, vagy ha eladsz tárgyakat. A fõtéren található térképen
+láthatod, merre van a bolt. A <sugo bolt> parancs pedig részletes
+infót ad, hogyan adhatsz, vehetsz tárgyakat.
+
+A fajod és az osztályod: befolyásolják hogyan küzdesz. Egy óriás harcos
+például jó fegyvereket használ és közelharcban profi, míg egy gnóm mágus
+a mágiáját használja elsõsorban.
+
+A jellemed nagyon fontos, hiszen vannak tárgyak, amiket nem használhatsz,
+ha nem megfelelõ a jellemed. Ezenkívül minden osztályhoz engedélyezett
+jellemek vannak rendelve, amelyekbõl "kilépve" tulajdonságaid nagymértékben
+romlanak.
+
+A menekülés mutatja, hogy ha harcban az életerõd a megadott érték alá
+csökken, akkor megpróbálsz elmenekülni. Ezt a <batorsag> paranccsal
+állíthatod.
+
+Az életerõ pont ha eléri a nullát vagy az alá csökken, akkor meghalsz.
+Az utolsó szintlépés óta szerzett összes tapasztalati pontodat elveszted, 
+a tárgyaid a hulládban maradnak. A stamina pont mutatja mennyire bírod még 
+a fáradtságot. Ha ez nulla, akkor nem bírsz mozogni, nem tudsz küzdeni. 
+A mágiapont mutatja, hogy mennyit tudsz még varázsolni.
+
+Találatbónusz: minél magasabb, annál könnyebben eltalálod ellenfeledet a
+  közelharcban.
+Sebzésbónusz: növeli a sebzést, amit közelharcban sebzel ellenfeleden.
+Mágiaimmunitás: minél magasabb, annál nehezebben varázsolnak rád ártó
+  varázslatokat.
+Méregimmunitás: minél magasabb, annál jobban ellenállsz a mérgeknek.
+  Ezeket a bónuszokat különbözõ tárgyak használata adja.
+Páncélzat: minél magasabb, annál védettebb vagy, annál nehezebben
+  sebeznek meg és annál kevesebbet is sebeznek rajtad. Páncélok használata, 
+  védõ varázslatok növelik.
+Közelharc: a szintedtõl és osztályodtól függõ mutató, ami minél magasabb,
+  annál könnyebben találod el közelharcban ellenfeledet.
+
+Tulajdonságok:
+Erõ: minél nagyobb, annál több tárgyat tudsz cipelni és annál nagyobbat
+  sebzel ütéseiddel.
+Állóképesség: ha magas, jobban ellenállsz a mérgeknek és sebzéseknek, 
+  ezenkívül szintlépéskor jobban nõ az életerõ pontod.
+Ügyesség: minél ügyesebb vagy, annál nehezebben találnak el téged és te
+  annál könnyebben találod el ellenfeledet közelharcban, ezenkívül annál
+  jobban nõ szintlépéskor a stamina pontod.
+Intelligencia: minél magasabb, annál jobban tudsz varázsolni és annál
+  jobban nó szintlépéskor a mágia pontod.
+Bölcsesség: minél magasabb, annál nehezebben tudnak rád ártó varázslatokat
+  varázsolni ls annál több órát kapsz gyakorlásra és fejlesztésre 
+Karizma: a szépségedet tükrözi, ettõl függ, hogy az agresszív szörnyek 
+  megtámadnak-e vagy sem. Sõt, az alkudozásnál is számít.
+
+A tulajdonságok maximumai fajonként más, ezt a <tulajdonsagok> parancs
+mutatja meg. Ott láthatóak még az alaptulajdonságok, bónuszok nélkül. Ott 
+van továbbá, hogy hány órát használhatsz fel tulajdonságaid fejlesztésére. 
+Ez a szám szintlépéskor növekszik. Az alaptulajdonságod nem haladhatja meg 
+a maximumot, tárgyak használatával sem.
+Bónuszokat tárgyak, varázslatok adhatnak.
+
+Képzettségek és varázslatok:
+Az osztályod specialitásai. Ha beírod <kepzettsegek info> ill.
+<varazslatok info>, akkor látod, hogy milyen speciális dolgokat milyen
+szinten tanulhatsz meg. A már megtanult dolgokat a <kepzettsegek> ill.
+<varazslatok> parancs mutatja meg, és azt is látod, hány órát fordíthatsz
+tanulásra. Ez a szám szintlépéskor növekszik, a bölcsességedtõl függõen.
+Az osztályod tanítómestereinél tanulhatsz a <tanul [kepzettseg | varazslat]>
+paranccsal, persze ez pénzbe kerül. Ugyanitt láthatod miket tanulhatsz 
+és mennyibe kerül, a <koltseg> paranccsal. Ne lepõdj meg, ha egy 
+képzettséget vagy varázslatot nem tudsz egy adott mesternél maximálisan
+megtanulni. Ekkor indulj, és keress egy még jobb tanítómestert!
+
+Tárgyak:
+Különféle páncélok vannak, amiket különbözõ testrészeiden viselhetsz.
+Például láncinget a törzseden, két gyûrût az ujjaidon, sisakot a fejeden.
+Ezek növelik páncélzatodat és bónuszokat is adhatnak. (visel parancs)
+Egy fegyvert foghatsz meg, ezzel harcolhatsz. Ez is adhat bónuszokat.
+(megfog parancs) Másik kezedben tarhatsz bármilyen tárgyat, olyat érdemes
+ami valami bónuszt ad. (tart parancs). Ezen kívül tarthatsz még egy
+fényforrást is bal kezedben, pl. egy fáklyát. Azok a tárgyak, amiket
+használsz, a <felszereles> parancsnál jelennek meg, amiket nem használsz,
+csak nálad vannak, azok a <leltar> parancsnál. Ha nem akarsz használni
+többé egy tárgyat, ezt az <eltesz> paranccsal teheted meg.
+
+Foldrol a <felvesz> paranccsal vehetsz fel targyakat, peldaul: felvesz
+ing, felvesz penz, felvesz mindent. Eldobni targyakat az <eldob> paranccsal
+lehet. Hullakbol, ladabol, taskabol kivenni a <kivesz> paranccsal lehet
+cuccokat, peldaul: kivesz penz hulla, kivesz mindent hulla. Taskaba,
+ladaba betenni targyat a <betesz> paranccsal lehet. Mas jatekosoknak
+atadhatsz penzt, targyakat az <ad> parancs segitsegevel.
+
+Kulcsra zart ajto kinyitasa: <kinyit ajto>. Ajto kulcsra zarasa: <bezar
+ajto>. Csukott ajto kinyitasa: <nyit ajto>. Ajto becsukasa: <csuk ajto>.
+
+
+A sugo rendszer eleg jo, probald ki: <sugo>
+Ott latsz kulonbozo kategoriakat:
+*jatekos - Hasznos infok a jatekrol.
+*parancsok - Az alapparancsok, amiket minden jatekos megtehet.
+*kepessegek - Az osztalyok specialis parancsai.
+*kepzettsegek - Az osszes osztaly kepzettsegei.
+*varazslatok - Az osszes osztaly varazslatai.
+
+Lasd meg: harcrendszer 
