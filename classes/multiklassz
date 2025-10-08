@@ -1,0 +1,9 @@
+A 4 alaposztály (harcos, mágus, pap, tolvaj) csak multiklasszban vehetõ
+fel: harcos/tolvaj, harcos/pap, harcos/mágus, tolvaj/pap, tolvaj/mágus,
+pap/mágus, harcos/tolvaj/mágus és harcos/pap/mágus.
+
+%^WHITE%^Elõnye: %^CYAN%^Egy személyben több mindent tudnak, több képzettséget, 
+        varázslatot ismernek, mint egy egy osztályos karakter.
+
+%^WHITE%^Hátránya: %^CYAN%^Mindegyik osztályoddal külön-külön meg kell lépni 
+          minden szintet.
