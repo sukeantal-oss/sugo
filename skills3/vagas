@@ -1,0 +1,10 @@
+Kardmûvész képzettség
+
+Kardoddal megvághatod ellenfeledet. Ha jártas vagy a kardmûvészetben,
+testrészt is megadhatsz (lab, jobb kez, bal kez). Ha ismered a kettõs
+vágás technikáját, mindkét kardoddal vághatsz, akár külön célpontra is.
+
+Sebzés: a fegyver sebzése
+
+Használat: <vag ([celpont]) ([testresz])> vagy 
+           <vag ([celpont]) ([celpont])>

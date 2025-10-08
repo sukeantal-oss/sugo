@@ -1,0 +1,14 @@
+Lovag képzettség
+
+Adott irányban, adott távolságig rohamozol.
+Ha szerencséd van, akár le is terítheted az ellenfeledet, de ha melléütsz,
+hasra is eshetsz.
+
+Sebzés: fegyver sebzése + bónuszok
+
+A sebzés annál nagyobb, minél messzebbrõl rohamozol (4 lokacioig szamit).
+Lovon ülve és kopját használva a sebzés még nagyobb.
+
+Használat: <roham ([hanyszor] [irany]) [celpont]>
+
+Lásd még: lovasroham
